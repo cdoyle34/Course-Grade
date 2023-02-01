@@ -1,0 +1,17 @@
+Gump	Forest	70.0	45.0	59.0	F
+Woods	Elle	96.0	97.0	88.0	A
+Charming	Prince	73.0	94.0	80.0	B
+White	Snow	88.0	61.0	36.0	D
+Lasso	Ted	90.0	86.0	45.0	C
+Kent	Roy	60.0	75.0	78.0	C
+Solo	Han	95.0	84.0	74.0	B
+Bond	James	88.0	79.0	90.0	B
+Everdeen	Katniss	30.0	94.0	97.0	C
+Mode	Edna	98.0	99.0	89.0	A
+Montoya	Inigo	50.0	58.0	60.0	F
+Potter	Harry	89.0	87.0	88.0	B
+Granger	Hermione	100.0	98.0	97.0	A
+Weasley	Ron	75.0	70.0	67.0	C
+Baggins	Bilbo	87.0	75.0	78.0	B
+
+Averages: Midterm1 79.27, Midterm2: 80.13, Final: 75.07
